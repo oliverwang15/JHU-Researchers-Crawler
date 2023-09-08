@@ -2,7 +2,7 @@
 
 
 ### 1. How to Use ?
-* Run in code in the [notebook](./main.ipynb)
+* Run the code in this [notebook](./main.ipynb)
 
 * Or run the `main.py` file directly:
   ``` shell
